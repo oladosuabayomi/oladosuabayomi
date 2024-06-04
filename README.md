@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 
 ## 🚀 About Me
 
-- 💼 Currently studying Computer Science at [Lagos State University](https://lasu.edu.ng/home/)
+- 💼 Currently studying Computer Science at [Lagos State University](https://lasu.edu.ng/home/).
 - 🌱 Learning and experimenting with [Figma, HTML, CSS and JavaScript.]
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about web development, JavaScript, and open-source
-- 📫 How to reach me: [your.email@example.com]
+- 👯 Looking to collaborate on open-source projects.
+- 💬 Ask me about web development, JavaScript, and open-source.
 
 ## 🛠️ Skills
 
