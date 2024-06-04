@@ -1,4 +1,4 @@
-# Hi there, I'm [Oladosu Abayomi]()! 👋
+# Hi there, I'm [Oladosu Abayomi]() 👋
 
 Welcome to my GitHub profile! I'm a passionate computer science student with a keen interest in developing interactive user interfaces (UIs). I'm skilled in HTML/CSS and continually improving my JavaScript abilities. Besides coding, I am also engaging in technical writing to share insights and innovations in the field.
 
@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about web development, JavaScript, and open-source
 - 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: [A fun fact about you]
 
 ## 🛠️ Skills
 
