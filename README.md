@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 
 ![ My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oladosuabayomi&show_icons=true&theme=radical)
 
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oladosuabayomi&theme=react-dark)
+
 ## 🔥 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oladosuabayomi&layout=compact&theme=radical)
