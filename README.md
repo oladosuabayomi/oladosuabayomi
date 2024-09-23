@@ -27,9 +27,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 
 ![ My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oladosuabayomi&show_icons=true&theme=radical)
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oladosuabayomi&theme=react-dark)
-
 ## 🔥 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oladosuabayomi&layout=compact&theme=radical)
@@ -59,21 +56,5 @@ I welcome contributions to my projects! Feel free to open issues or submit pull 
 For any inquiries, feel free to reach out via [email](mailto:oladosuabayomi6@gmail.com).
 
 ---
+Like to appreciate my effort on individual projects, kindly drop a star⭐ Thank you in advance and have a great day! 🙏😊
 
-Thank you for visiting my profile! Have a great day! 😊
-
-
-
-
-<!---  - 🔥 Hi, I am oladosu Abayomi (<a href="https://github.com/oladosuabayomi/">@oladosuabayomi</a>).
-- ✨ I’m a Computer Science Student and a self-taught Full Stack Web Developer (in development).
-- 🌹 I am looking to collaborate on CSS and entry level JS projects.
-
-<hr>
-<strong><p align="center">Let's Connect 🤍</p></strong>
-<p align="center">
-    <a href="https://www.twitter.com/abayomi_oladosu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/oladosuabayomi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-</p>
-<hr>
->
