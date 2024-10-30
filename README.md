@@ -25,7 +25,17 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 
 ## 📈 GitHub Stats
 
-![ My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oladosuabayomi&show_icons=true&theme=radical)
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=oladosuabayomi&theme=algolia" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="left">
+<a href="https://github.com/oladosuabayomi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oladosuabayomi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</div>
 
 ## 🔥 Top Languages
 
