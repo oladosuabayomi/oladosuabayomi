@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I'm a passionate computer science student with a k
 
 ## 🚀 About Me
 
-- 💼 Currently studying Computer Science at [Lagos State University](https://lasu.edu.ng/home/).
-- 🌱 Learning and experimenting with [Figma, HTML, CSS and JavaScript.]
+- 💼 Currently studying Computer Science.
+- 🌱 Learning and experimenting with [Figma, HTML, CSS, JavaScript and various frameworks]
 - 👯 Looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, and open-source.
 
 ## 🛠️ Skills
 
 - **Languages**: HTML, CSS, JavaScript, C.
-- **Frameworks**: After Learning Core Javascript.
+- **Frameworks**: Tailwind, React.js, Vue.js.
 - **Tools**: Git, GitHub, and VSCode.
 
 ## 🔧 Technologies & Tools
@@ -64,7 +64,4 @@ I welcome contributions to my projects! Feel free to open issues or submit pull 
 ## 📫 Contact
 
 For any inquiries, feel free to reach out via [email](mailto:oladosuabayomi6@gmail.com).
-
----
-Like to appreciate my effort on individual projects, kindly drop a star⭐ Thank you in advance and have a great day! 🙏😊
 
