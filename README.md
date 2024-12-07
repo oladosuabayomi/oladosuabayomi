@@ -1,11 +1,9 @@
 # Hi there, I'm [Oladosu Abayomi]() 👋
 
-Welcome to my GitHub profile! I'm a passionate computer science student with a keen interest in developing interactive user interfaces (UIs). I'm skilled in HTML/CSS and continually improving my JavaScript abilities. Besides coding, I am also engaging in technical writing to share insights and innovations in the field.
+Welcome to my GitHub profile! I'm Passionate about creating interactive UIs, skilled in web technologies, and constantly advancing my JavaScript expertise. I also share insights and innovations through technical writing.
 
 ## 🚀 About Me
 
-- 💼 Currently studying Computer Science.
-- 🌱 Learning and experimenting with [Figma, HTML, CSS, JavaScript and various frameworks]
 - 👯 Looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, and open-source.
 
