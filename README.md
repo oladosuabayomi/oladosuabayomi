@@ -1,4 +1,8 @@
-# Hi there, I'm [Oladosu Abayomi]() 👋
+# Hi there, I'm [Oladosu Abayomi]() 👋. <div align="center">
+<img src="https://komarev.com/ghpvc/?username=oladosuabayomi&&style=flat-square" align="center" />
+</div>  
+
+
 
 Welcome to my GitHub profile! I'm Passionate about creating interactive UIs, skilled in web technologies, and constantly advancing my JavaScript expertise. I also share insights and innovations through technical writing.
 
