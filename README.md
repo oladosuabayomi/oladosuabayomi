@@ -1,4 +1,4 @@
-# Oladosu Abayomi
+# Hello, I'm Oladosu Abayomi 👋
 
 **Creative Frontend Developer** • Computer Science Undergraduate @ Lagos State University, Nigeria • Building High-Performance Web Applications
 
