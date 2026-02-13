@@ -42,7 +42,7 @@ Transformed a hackathon prototype into a production-ready startup platform. Arch
 
 ---
 
-### [AtomicPrompts](https://atomic-prompt.vercel.app)
+### [AtomicPrompts](https://atomic-prompt-repo-client.vercel.app/)
 **Creator** | Next.js • AI Integration • TypeScript
 
 AI-powered repository of structured prompts for better AI tool results. Built with modern architecture focusing on developer experience and prompt engineering best practices.
