@@ -1,8 +1,9 @@
-# Hello, I'm Oladosu Abayomi 👋
+# Oladosu Abayomi
 
-**Creative Frontend Developer** • Computer Science Undergraduate @ Lagos State University, Nigeria • Building High-Performance Web Applications
+**Full-Stack & Creative Frontend Engineer** • Web Platform & SEO Architect • Computer Science @ Lagos State University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladosuabayomi)
+[![Twitter / X](https://img.shields.io/badge/X-@abayomi__oladosu-000000?style=flat&logo=x&logoColor=white)](https://x.com/abayomi_oladosu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oladosuabayomi6@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@oladosuabayomi6)
 
@@ -10,99 +11,142 @@
 
 ## About Me
 
-I design and build web applications that blend technical precision with user-centered design. Currently seeking **frontend development internships** where I can contribute to impactful products while continuing to grow.
+I engineer fast, production-grade web applications, custom backend/CMS systems, and search-optimized digital platforms that blend clean system architecture with high-converting user experiences.
 
-```javascript
+```typescript
 const abayomi = {
   location: "Lagos, Nigeria",
   education: "B.Sc. Computer Science @ Lagos State University (4.5/5.0 GPA)",
-  focus: ["Frontend Development", "UI/UX Design", "Web Performance"],
-  learning: ["Advanced React Patterns", "Full-Stack Development"],
-  openTo: ["Frontend Internships", "Remote Opportunities", "Open Source"],
-  achievement: "30% performance improvement on production applications"
+  roles: [
+    "Full-Stack & Frontend Engineer",
+    "Web Platform & CMS Architect",
+    "Technical SEO & Web Performance Engineer"
+  ],
+  coreStack: ["React", "Next.js", "TypeScript", "Node.js", "TailwindCSS", "Sanity CMS", "Supabase", "Firebase"],
+  systemsAndTools: ["C++17", "Chrome Extensions (MV3)", "REST APIs", "Git/GitHub"],
+  openTo: [
+    "Software Engineering Roles & Internships",
+    "Full-Stack & Frontend Product Engineering",
+    "Technical Consulting & Open Source Collaboration"
+  ]
 };
 ```
 
-### Recent Highlights
-- **ALX Nigeria Hackathon Winner** – Led frontend for JechSpace (Most Innovative Solution)
-- **UI/UX Designer @ Hult Prize LASU** – Designed and built registration platform for 100+ global competitors
-- **Frontend Developer @ Stellarserve Solutions** – Full lifecycle web development for tech hiring platform
-- **GDG LASU Core Team** – Leading technical workshops and community infrastructure
+### Recent Engineering Highlights
+- **Production Client Platforms & Custom Backends** – Architected full-stack web platforms, custom admin portals, and Sanity CMS studios ranking on **Page 1 (#1–#2) of Google**.
+- **Software Engineering Intern @ Galaxy Backbone** – Engineered **GovMail**, an enterprise sovereign email platform prototype for secure organizational communications.
+- **ALX Nigeria Hackathon Winner** – Led frontend architecture for **JechSpace** (*Most Innovative Solution Award*).
+- **GDG LASU Core Team & Hult Prize LASU** – Leading technical workshops, developer community infrastructure, and engineering registration systems for 100+ competitors.
 
 ---
 
-## Featured Projects
+## Featured Production Platforms & Case Studies
 
-### [JechSpace](https://waitlist.jechspace.com) • Winner, ALX Nigeria Hackathon
-**Lead Frontend Developer** | Next.js • React • TypeScript • TailwindCSS
+### [Emerald Empire Platform & Custom Admin Portal](https://emeraldempireengineering.com.ng/)
+**Lead Full-Stack & Technical SEO Engineer** | `React` • `Node.js` • `Custom Admin Portal` • `Technical SEO`
 
-Transformed a hackathon prototype into a production-ready startup platform. Architected the complete frontend infrastructure for an innovative tech solution recognized for exceptional design and user experience.
+End-to-end real estate and engineering web platform paired with a custom-built internal **Property Management Admin Portal**.
+- **Custom Backend Workflow:** Engineered a secure admin dashboard (`/eel-secure`) enabling staff to dynamically manage estates, regional listings, blog content, CSV data imports, and one-click *"Mark Sold"* inventory states.
+- **Search & Performance:** Structured semantic schema markup, Core Web Vitals optimization, and technical SEO achieving **Page 1 Google rankings** and a **+165% increase in qualified buyer inquiries**.
 
-**Impact:** Most Innovative Solution Award • Scaled from MVP to functional product
+---
+
+### [Anthony Nweke — Founder, Author & Time Capital Platform](https://anthonynweke.com/)
+**Lead Web Architect, CMS & SEO Engineer** | `React` • `Sanity CMS` • `Technical SEO` • `TailwindCSS`
+
+Flagship digital platform and conversion funnel for founder, author, and executive coach Anthony Nweke (*The Time Capital Movement*).
+- **Custom Sanity CMS Studio:** Designed and deployed a tailored *Time Capital CMS* workspace managing Site & SEO Settings, Books, Articles, Coaching/Speaking Services, and Testimonials with zero developer dependency.
+- **Search Dominance:** Engineered technical and on-page SEO architecture that propelled the platform to **#2 on Google Search**.
+
+---
+
+### [SVT IT Consult](https://svtitconsult.com/)
+**Web Platform Engineer** | `Enterprise Web Platform` • `React` • `TailwindCSS`
+
+Enterprise web platform for **SVT IT Consult**, showcasing IFRS- and IPSAS-compliant enterprise software solutions across HR, finance, asset management, and biometrics built for African and global standards.
+
+---
+
+## Selected Product Builds & Web Applications
+
+### [GovMail Infrastructure](https://govmail-gbb-eta.vercel.app/) • *Galaxy Backbone Internship Prototype*
+**Frontend & Platform Engineer** | `React` • `Enterprise UI` • `Sovereign Cloud Concept`
+
+A fully hosted, enterprise-ready email platform prototype designed to keep organizational data local and communications secure *(built as part of my internship submission at Galaxy Backbone — unofficial prototype)*.
+
+---
+
+### [Oworify Marketplace](https://oworify.vercel.app/)
+**Full-Stack Product Engineer** | `React` • `Node.js` • `MongoDB` • `REST API`
+
+Verified artisan discovery and identity platform enabling households and businesses across Nigeria to discover, vet, and hire skilled professionals directly with zero middlemen.
 
 ---
 
 ### [AtomicPrompts](https://atomic-prompt-repo-client.vercel.app/)
-**Creator** | Next.js • AI Integration • TypeScript
+**Creator & Lead Engineer** | `Next.js` • `TypeScript` • `AI Workflows`
 
-AI-powered repository of structured prompts for better AI tool results. Built with modern architecture focusing on developer experience and prompt engineering best practices.
-
-**Key Features:** Copy-paste optimized prompts • Category system • Search functionality
+Searchable, high-performance AI prompt engineering platform and directory built for developers, marketers, and teams to deploy tested AI workflows in seconds.
 
 ---
 
-### [RoomConnect](https://roomconnect.vercel.app)
-**Frontend Developer** | React • Next.js • API Integration
+### [RoomConnect Nigeria](https://roomconnect.vercel.app/)
+**Founder & Lead Engineer** | `React` • `Next.js` • `API Integration`
 
-Student housing solution connecting students with verified accommodation. Implemented responsive UI, real-time search, and seamless property browsing experience.
-
-**Focus:** Real-world problem solving • Student-centric design • Performance optimization
+Direct-to-student accommodation platform connecting Nigerian university students with verified landlords, eliminating exploitative agency fees through real-time search and responsive property browsing.
 
 ---
 
-### [GradeFlow](https://gradeflow-jxli.onrender.com)
-**Full-Stack Developer** | React • Next.js • PDF Generation
+### [GradeFlow](https://gradeflow-jxli.onrender.com/)
+**Full-Stack Developer** | `React` • `Next.js` • `Client-Side PDF Generation`
 
-Advanced CGPA calculator for LASU students with instant PDF export. Privacy-first architecture with client-side computation and professional transcript generation.
-
-**Features:** 5.0 scale precision • PDF export • Mobile-optimized • Zero data storage
+Privacy-first 5.0-scale CGPA calculator and academic semester planner for university students with instant client-side transcript PDF export and zero server-side data retention.
 
 ---
 
-### [FileOrganizer](https://github.com/oladosuabayomi/FileOrganizer) ⭐ 3 Stars
-**Developer** | C++ • CLI • Cross-Platform
+## Open-Source Lab & Developer Tools
 
-Professional command-line tool for automatic file organization with undo functionality. Demonstrates systems programming capabilities beyond frontend development.
+### Job Autofill AI — Chrome Extension
+**Creator** | `Next.js` • `TypeScript` • `Supabase` • `Chrome Extension (Manifest V3)` • `AI API`
 
-**Tech:** C++17 • Cross-platform • Web interface • Session tracking
+An AI-powered Chrome extension backed by **Supabase** that auto-fills job application forms in one click using your saved candidate profile—complete with integrated AI generation for custom screening questions.
+
+---
+
+### [Image Stego App](https://image-stego-app.vercel.app/) ([GitHub Repo](https://github.com/oladosuabayomi/image-stego-app))
+**Creator** | `JavaScript` • `Canvas API` • `Steganography` • `Vercel`
+
+Browser-based image steganography utility for encoding and decoding hidden text payloads directly inside image files using client-side pixel manipulation.
+
+---
+
+### [FileOrganizer](https://github.com/oladosuabayomi/FileOrganizer) (3 GitHub Stars)
+**Developer** | `C++17` • `CLI` • `Cross-Platform`
+
+High-performance command-line utility for automated directory scanning and file organization by file type and metadata, featuring session tracking and undo functionality.
 
 ---
 
 ## Technical Stack
 
-**Frontend Core**
-```
-React • Next.js • TypeScript • JavaScript (ES6+)
-```
-
-**Styling & UI**
-```
-TailwindCSS • CSS3 • Responsive Design • UI/UX Principles
+**Frontend & UI Engineering**
+```text
+React • Next.js • TypeScript • JavaScript (ES6+) • TailwindCSS • Framer Motion • HTML5/CSS3
 ```
 
-**Development Tools**
-```
-Git • GitHub • VS Code • Figma • API Integration
-```
-
-**Performance & Optimization**
-```
-Web Performance Optimization • State Management • SEO Best Practices
+**Backend, CMS & Cloud Infrastructure**
+```text
+Node.js • Sanity CMS • Supabase • Firebase (Firestore & Auth) • REST APIs • MongoDB
 ```
 
-**Currently Learning**
+**Performance, SEO & Systems**
+```text
+Technical & On-Page Google SEO • Core Web Vitals Optimization • JSON-LD Schema • C++17 • Chrome Extensions
 ```
-Advanced React Patterns • Node.js • Full-Stack Architecture
+
+**Workflow & Design**
+```text
+Git • GitHub • Vite • Vercel • Figma • UI/UX Architecture
 ```
 
 ---
@@ -120,39 +164,17 @@ Advanced React Patterns • Node.js • Full-Stack Architecture
 
 ---
 
-## What I'm Working On
-
-- Building production-ready web applications with modern React ecosystem
-- Deepening full-stack knowledge (targeting 2026 transition)
-- Contributing to open-source projects
-- Writing technical content on [Medium](https://medium.com/@oladosuabayomi6)
-- Leading technical workshops at Google Developers Group Lagos State University, Nigeria.
-
----
-
-## Open to Opportunities
-
-I'm actively seeking **Frontend Development Internships** where I can:
-- Build scalable, performant web applications
-- Collaborate with experienced developers
-- Contribute to meaningful products
-- Grow into full-stack development
-
-**Availability:** Immediate • **Location:** Remote or Lagos, Nigeria • **Relocation:** Open to discussion
-
----
-
 ## Let's Connect
 
-**Interested in working together?** I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+Whether you're hiring for a **Frontend / Full-Stack Engineering** role, looking to collaborate on open-source tools, or building a high-impact web platform:
 
-- Email: [oladosuabayomi6@gmail.com](mailto:oladosuabayomi6@gmail.com)
-- LinkedIn: [linkedin.com/in/oladosuabayomi](https://www.linkedin.com/in/oladosuabayomi)
-- Twitter: [@abayomi_oladosu](https://twitter.com/abayomi_oladosu)
-- Blog: [Medium](https://medium.com/@oladosuabayomi6) [Hashnode](https://oladosuabayomi.hashnode.dev/)
+- **Email:** [oladosuabayomi6@gmail.com](mailto:oladosuabayomi6@gmail.com)
+- **LinkedIn:** [linkedin.com/in/oladosuabayomi](https://www.linkedin.com/in/oladosuabayomi)
+- **Twitter / X:** [@abayomi_oladosu](https://x.com/abayomi_oladosu)
+- **Writing:** [Medium](https://medium.com/@oladosuabayomi6) • [Hashnode](https://oladosuabayomi.hashnode.dev/)
 
 ---
 
 <div align="center">
-  <i>💡 "Building the web, one component at a time."</i>
+  <i>"Engineering high-performance web systems, one component at a time."</i>
 </div>
